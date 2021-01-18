@@ -1,5 +1,5 @@
 ## BALOGUN, Adebisi Samuel
-Charity - Oshodi, Lagos. 
+Charity - Oshodi, Lagos.  
 baloguns.adebisi@gmail.com  
 08028611885
 
