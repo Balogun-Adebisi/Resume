@@ -71,14 +71,14 @@ WATS World Link Computers. (Subsidiary of West Africa Theological Seminary).
 - Information Technology Services Officer.
 
 
-**EDUCATION
- Jul 2006**	Higher National Diploma, Computer science. 
-		The Polytechnic Ibadan, Oyo State.
+**EDUCATION**  
+**Jul 2006** - Higher National Diploma, Computer science.
+  The Polytechnic Ibadan, Oyo State.
 
-**TRAINING**
-**Aug 2010**			Health, Safety and Environment (HSE) Training.
-**Jul 2002**			Students Industrial Working Experience (SIWES).
+**TRAINING**  
+**Aug 2010** - Health, Safety and Environment (HSE) Training.
+**Jul 2002** - Students Industrial Working Experience (SIWES).
 
 
 **AWARDS**  
-**Jan 2009**  Best Result Oriented Staff (Nigeria Society of Engineers).
+**Jan 2009** - Best Result Oriented Staff (Nigeria Society of Engineers).
