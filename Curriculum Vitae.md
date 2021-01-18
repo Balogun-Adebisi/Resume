@@ -50,7 +50,7 @@ Stonebridge Holdings Limited (Oil and Gas Services). Marina, Lagos.
 
 **Jan 2007 – Mar 2009**  
 *Information Technology Officer.*  
-Nigeria Society of Engineers.
+Nigeria Society of Engineers.  
 National Engineering Centre, Off National Mosque-Labour House, Central Business Area, Abuja.  
 - Software Programming / Database administrator, Webmaster (Management / Information dissemination)
 - System Engineer, Networking and Administration, Coordination of National Engineering Training Center. General ICT services and procurement.
