@@ -26,11 +26,9 @@ IT Technical Analyst with strong experience supporting IT asset management and p
 
 
 **CAREER PROGRESSION**     
-**Aug 2013 – Present
-Information Technology Administrator**
-Bond Maritime Services Limited (Oil & Gas Maritime Services).
-2A Louis Solomon Close, Victoria Island, Lagos.
-
+**Aug 2013 – Present**
+*Information Technology Administrator*
+Bond Maritime Services Limited (Oil & Gas Maritime Services). Victoria Island, Lagos.  
 - Updating of inventory for all Hardware/Software/Licenses and other types of computer documentation. 
 - Monitoring and maintaining Computer systems, Network & Internet services, website design & update for the organisation.
 - Installation, configuring and diagnose of computers (Laptop, Desktops), printers and solve technical / applications problems. 
@@ -40,10 +38,9 @@ Bond Maritime Services Limited (Oil & Gas Maritime Services).
 - Nigeria Local Content services compliant coordination.
 
 
-**Jul 2010 – Jul 2013		Business Development / IT.**
-Stonebridge Holdings Limited (Oil and Gas Services).
-53 UNTL House Marina, Lagos.
-
+**Jul 2010 – Jul 2013**  
+*Business Development / IT.*
+Stonebridge Holdings Limited (Oil and Gas Services). Marina, Lagos.
 - Hardware, Software, Licenses inventory management and documentations.
 - Internet services coordination, website designing / automation.
 - Monitoring and maintaining the computer systems and networks of the organization. Official electronic mails service administration.
@@ -51,20 +48,20 @@ Stonebridge Holdings Limited (Oil and Gas Services).
 - Project Management: Negotiating and managing the procurement process.
 
 
-**Jan 2007 – Mar 2009 		Information Technology Officer.**
+**Jan 2007 – Mar 2009**  
+*Information Technology Officer.*
 Nigeria Society of Engineers.
-National Engineering Centre, Off National Mosque-Labour House, Central Business Area, Abuja.
-
+National Engineering Centre, Off National Mosque-Labour House, Central Business Area, Abuja.  
 - Software Programming / Database administrator, Webmaster (Management / Information dissemination)
 - System Engineer, Networking and Administration, Coordination of National Engineering Training Center. General ICT services and procurement.
 - Updating of inventory for all Hardware/Software/Licenses and other types of documentation. 
 - Desktop Publishing – Microsoft Office suite, Computer Graphics.
 
 
-**May 2003 – Dec 2006 					Computer Instructor.**
+**May 2003 – Dec 2006**  
+*Computer Instructor.*  
 WATS World Link Computers. (Subsidiary of West Africa Theological Seminary).
-36, Olukunle Akinola Street, Ipaja, Lagos.
-
+Olukunle Akinola Street, Ipaja, Lagos.
 - Teaching of Application Software packages.
 - Troubleshooting, repairs and Maintenance of Computer System Hardware
 - Configuration and Networking. Installation of Software / Application packages.
