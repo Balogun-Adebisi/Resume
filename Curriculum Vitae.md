@@ -27,7 +27,7 @@ IT Technical Analyst with strong experience supporting IT asset management and p
 
 **CAREER PROGRESSION**     
 **Aug 2013 – Present**
-*Information Technology Administrator*
+*Information Technology Administrator*  
 Bond Maritime Services Limited (Oil & Gas Maritime Services). Victoria Island, Lagos.  
 - Updating of inventory for all Hardware/Software/Licenses and other types of computer documentation. 
 - Monitoring and maintaining Computer systems, Network & Internet services, website design & update for the organisation.
@@ -39,7 +39,7 @@ Bond Maritime Services Limited (Oil & Gas Maritime Services). Victoria Island, L
 
 
 **Jul 2010 – Jul 2013**  
-*Business Development / IT.*
+*Business Development / IT.*  
 Stonebridge Holdings Limited (Oil and Gas Services). Marina, Lagos.
 - Hardware, Software, Licenses inventory management and documentations.
 - Internet services coordination, website designing / automation.
@@ -49,7 +49,7 @@ Stonebridge Holdings Limited (Oil and Gas Services). Marina, Lagos.
 
 
 **Jan 2007 – Mar 2009**  
-*Information Technology Officer.*
+*Information Technology Officer.*  
 Nigeria Society of Engineers.
 National Engineering Centre, Off National Mosque-Labour House, Central Business Area, Abuja.  
 - Software Programming / Database administrator, Webmaster (Management / Information dissemination)
@@ -59,7 +59,7 @@ National Engineering Centre, Off National Mosque-Labour House, Central Business 
 
 
 **May 2003 – Dec 2006**  
-*Computer Instructor.*  
+*Computer Instructor.*    
 WATS World Link Computers. (Subsidiary of West Africa Theological Seminary).
 Olukunle Akinola Street, Ipaja, Lagos.
 - Teaching of Application Software packages.
