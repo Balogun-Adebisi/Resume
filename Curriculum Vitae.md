@@ -8,7 +8,7 @@ baloguns.adebisi@gmail.com
 IT Technical Analyst with strong experience supporting IT asset management and procurement initiatives. Logical thinking and resourceful team player. Seeking an employer who will allow me to utilize most of my skills towards achieving managerial goals with enduring legacy while enjoying job satisfaction.
 
 
-**TECHNICAL AND PERSONAL SKILLS:** 
+**TECHNICAL AND PERSONAL SKILLS:**  
 - Information Technology Services savvy - Desktop Publishing, Microsoft Office suite, WordPress, HTML, PHP, Database, Google Cloud.
 - Hardware: Procurement, maintenance/ repairs, Network Administration, Intercoms (PABX).
 - Users supports and administration (setup and maintaining accounts).
@@ -16,7 +16,7 @@ IT Technical Analyst with strong experience supporting IT asset management and p
 - Health, Safety, Environment coordination. 
 
 
-**ACCOMPLISHMENTS**  
+**ACCOMPLISHMENTS**    
 - Implement and setup Bond Maritime office network (Wired, Wi-Fi), Intercom. 
 - Spearhead company Bond Maritime E-marketing registration.
 - Successfully setup of NSE (Nigeria Society of Engineers) ICT training centre. 
@@ -25,7 +25,7 @@ IT Technical Analyst with strong experience supporting IT asset management and p
 - Implement IT policies for the use of the computer system and network Setup security policies for users.
 
 
-**CAREER PROGRESSION** 
+**CAREER PROGRESSION**   
 **Aug 2013 – Present	            Information Technology Administrator**
 Bond Maritime Services Limited (Oil & Gas Maritime Services).  
 2A Louis Solomon Close, Victoria Island, Lagos.
