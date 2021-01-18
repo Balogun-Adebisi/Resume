@@ -76,7 +76,7 @@ WATS World Link Computers. (Subsidiary of West Africa Theological Seminary).
   The Polytechnic Ibadan, Oyo State.
 
 **TRAINING**  
-**Aug 2010** - Health, Safety and Environment (HSE) Training.
+**Aug 2010** - Health, Safety and Environment (HSE) Training.  
 **Jul 2002** - Students Industrial Working Experience (SIWES).
 
 
