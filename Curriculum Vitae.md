@@ -69,8 +69,8 @@ Olukunle Akinola Street, Ipaja, Lagos.
 
 
 **EDUCATION**  
-**Jul 2006** - Higher National Diploma, Computer science.
-  The Polytechnic Ibadan, Oyo State.
+**Jul 2006** - Higher National Diploma, Computer science.    
+The Polytechnic Ibadan, Oyo State.
 
 **TRAINING**  
 **Aug 2010** - Health, Safety and Environment (HSE) Training.  
