@@ -80,5 +80,5 @@ WATS World Link Computers. (Subsidiary of West Africa Theological Seminary).
 **Jul 2002**			Students Industrial Working Experience (SIWES).
 
 
-**AWARDS**
-**Jan 2009**			Best Result Oriented Staff (Nigeria Society of Engineers).
+**AWARDS**  
+**Jan 2009**  Best Result Oriented Staff (Nigeria Society of Engineers).
