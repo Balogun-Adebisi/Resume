@@ -5,7 +5,7 @@ baloguns.adebisi@gmail.com
 
 
 **PERSONAL SUMMARY**   
-IT Technical Analyst with strong experience supporting IT asset management and procurement initiatives. Logical thinking and resourceful team player. Seeking an employer who will allow me to utilize most of my skills towards achieving managerial goals with enduring legacy while enjoying job satisfaction.
+IT Technical Analyst with strong experience supporting IT asset management and procurement initiatives. Logical thinking and resourceful team player. Seeking an employer who will allow me to utilize most of my skills towards achieving managerial goals with enduring legacy while enjoying job satisfaction.  
 
 
 **TECHNICAL AND PERSONAL SKILLS:**  
