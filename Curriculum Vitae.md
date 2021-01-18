@@ -25,9 +25,10 @@ IT Technical Analyst with strong experience supporting IT asset management and p
 - Implement IT policies for the use of the computer system and network Setup security policies for users.
 
 
-**CAREER PROGRESSION**   
-**Aug 2013 – Present	            Information Technology Administrator**
-Bond Maritime Services Limited (Oil & Gas Maritime Services).  
+**CAREER PROGRESSION**     
+**Aug 2013 – Present
+Information Technology Administrator**
+Bond Maritime Services Limited (Oil & Gas Maritime Services).
 2A Louis Solomon Close, Victoria Island, Lagos.
 
 - Updating of inventory for all Hardware/Software/Licenses and other types of computer documentation. 
